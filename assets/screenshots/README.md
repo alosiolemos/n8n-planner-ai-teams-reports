@@ -1,7 +1,5 @@
 # Screenshots
 
-Adicione aqui a captura do fluxo com o nome `workflow-planner-teams.png`.
+- [n8n.png](n8n.png): visão completa dos dois ramos da automação Planner → Gemini → Teams, exibida no README principal.
 
-No README principal, substitua `assets/screenshots/preview.svg` por `assets/screenshots/workflow-planner-teams.png`. A captura passará a ocupar o espaço reservado.
-
-Use uma captura sem tokens, segredos ou informações internas.
+Para atualizar a captura, substitua `n8n.png` mantendo o mesmo nome.
