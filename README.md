@@ -8,9 +8,8 @@ O objetivo é organizar atividades, detalhes e atualizações em relatórios rec
 
 Visão completa dos dois ramos da automação: acompanhamento de atividades e resumo semanal com IA.
 
-![Visão do workflow Planner, Gemini e Teams](assets/screenshots/preview.svg)
+![Visão do workflow Planner, Gemini e Teams](assets/screenshots/n8n.png)
 
-**Para adicionar sua captura:** envie a imagem para `assets/screenshots/` com o nome `workflow-planner-teams.png` e substitua `preview.svg` por `workflow-planner-teams.png` no link acima.
 
 ## O fluxo
 
