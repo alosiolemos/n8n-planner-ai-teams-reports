@@ -1,0 +1,22 @@
+{
+  "identifiers": [
+    "CONFIGURE_ID_001",
+    "CONFIGURE_ID_002",
+    "CONFIGURE_ID_004",
+    "CONFIGURE_ID_006",
+    "CONFIGURE_ID_008",
+    "CONFIGURE_ID_010",
+    "CONFIGURE_ID_012",
+    "CONFIGURE_ID_014",
+    "CONFIGURE_ID_016",
+    "CONFIGURE_ID_020",
+    "CONFIGURE_ID_021",
+    "CONFIGURE_ID_022",
+    "CONFIGURE_ID_023",
+    "CONFIGURE_ID_024",
+    "CONFIGURE_ID_025",
+    "CONFIGURE_ID_026",
+    "CONFIGURE_ID_033"
+  ],
+  "notes": "Os marcadores são consistentes entre URLs e mapas de planos/buckets. Substitua cada um pela configuração do seu ambiente; os valores originais não são distribuídos."
+}
