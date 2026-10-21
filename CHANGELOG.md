@@ -1,5 +1,12 @@
 # Histórico
 
+## 0.2.0 — 2026-10-21
+
+- Duas capturas de mensagens entregues no Microsoft Teams.
+- Exemplos textuais do acompanhamento e fechamento semanal.
+- Explicação dos períodos, indicadores e relação entre cálculo, IA e HTML.
+- Template e integrações preservados sem nova execução.
+
 ## 0.1.0 — 2026-10-19
 
 - Template público com estrutura de 51 nós.

@@ -11,6 +11,26 @@ Visão completa dos dois ramos da automação: acompanhamento de atividades e re
 ![Visão do workflow Planner, Gemini e Teams](assets/screenshots/n8n.png)
 
 
+## Resultado entregue no Microsoft Teams
+
+Desenvolvi dois formatos de relatório para transformar os dados do Planner em comunicação útil para a equipe: **acompanhamento das atividades** e **fechamento semanal das solicitações**. As capturas abaixo mostram mensagens recebidas no Teams, com indicadores em tabelas e análise textual organizada em HTML.
+
+### Acompanhamento de atividades
+
+Panorama dos projetos em execução, pendências, entregas e próximos passos. A captura de 12/10 mostra 15 atividades em acompanhamento, sendo 8 em curso e 7 pausadas, além dos indicadores de entregas.
+
+![Acompanhamento de atividades entregue no Teams](assets/screenshots/teams-acompanhamento-atividades.png)
+
+### Fechamento semanal
+
+Entradas e conclusões da semana, comparação com o período anterior, visão mensal e resumo das atividades. A execução apresentada considera **03/10/2026 a 09/10/2026**: 3 recebidas, 2 concluídas e 9 em acompanhamento.
+
+![Fechamento semanal entregue no Teams](assets/screenshots/teams-fechamento-semanal.png)
+
+Os exemplos pertencem a recortes distintos; os totais não devem ser somados ou comparados como se representassem a mesma fotografia. A segunda captura é parcial: o texto completo complementa a visualização.
+
+[Ver os textos dos relatórios e a explicação dos indicadores](docs/resultados-teams.md).
+
 ## O fluxo
 
 ```mermaid
@@ -60,6 +80,7 @@ Os nomes históricos dos nós foram preservados, mas os dois nós de modelo usam
 - [Arquitetura e dois ramos](docs/arquitetura.md)
 - [Configuração e importação](docs/configuracao.md)
 - [Normalização, métricas e relatórios](docs/processamento.md)
+- [Resultado entregue no Teams e exemplos de mensagens](docs/resultados-teams.md)
 - [Inventário de nós](docs/inventario-nos.md)
 - [Preparação pública e cuidados de uso](docs/publicacao.md)
 - [Verificações realizadas](docs/validacao.md)
@@ -76,4 +97,4 @@ O painel permite exploração interativa. O n8n consulta o Graph diretamente e d
 
 A integração é do processo operacional e da fonte comum. Esta preparação não executou chamadas de rede nem enviou mensagens.
 
-Código disponibilizado sob [licença MIT](LICENSE), sem dados e marcas de terceiros.
+Código disponibilizado sob [licença MIT](LICENSE). As capturas e os exemplos de execução são evidências do case; podem conter marcas e contexto operacional de terceiros e não ampliam a licença do código.
